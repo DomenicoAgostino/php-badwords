@@ -1,0 +1,16 @@
+header{
+  background-color: aqua;
+  color: red;
+}
+
+main{
+  color: black;
+}
+
+.text-normal{
+  background-color: brown;
+}
+
+.text-censored {
+  background-color: burlywood;
+}
